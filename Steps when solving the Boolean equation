@@ -1,4 +1,4 @@
-Simplify the following equation:
+Main Equation:
 F=A′B′C′+A′BC+A′BC′+AB′C+ABC′
 simplfied:
 F=A′(B+C′)+A(B′C+BC′)
