@@ -1,0 +1,12 @@
+Simplify the following equation:
+F=A′B′C′+A′BC+A′BC′+AB′C+ABC′
+simplfied:
+F=A′(B+C′)+A(B′C+BC′)
+Motion-sensing light:
+i=mt′+m′t+mt
+Grouping the terms
+=m(t′+t)+m′t
+Basic properties of Boolean algebra
+t′+t=1  =  𝑚(1)+𝑚′𝑡=m(1)+m′t
+A⋅1=A   𝑚(1)=𝑚
+i=m+m′t
